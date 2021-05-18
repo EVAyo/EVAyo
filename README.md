@@ -10,8 +10,7 @@
  - 📫 How to reach me: 
  - ⚡ Fun fact: Love Funko!
 
-<img alt="🦑" align="left" width="400px" src="https://github.com/EVAyo/EVAyo/blob/main/metrics.svg">
-<img alt="🦑" align="left" width="400px" src="https://github.com/EVAyo/EVAyo/blob/main/metrics.additional.svg">
+![Top Langs](https://github.com/EVAyo/EVAyo/blob/main/github-metrics.svg)
 
 #### Thank you for the visit.
 ![](http://profile-counter.glitch.me/EVAyo/count.svg)
