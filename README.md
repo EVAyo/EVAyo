@@ -7,7 +7,7 @@
  - ⚡ Fun fact: Love Funko!
 
 [![Github](https://img.shields.io/github/followers/EVAyo?label=Follow&style=social)](https://github.com/EVAyo)
-[![CodeTime](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1959)](https://codetime.datreks.com)
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1959?logoColor=dark%26project=%26recentMS=0%26showProject=false)
 
 ![Top Langs](https://github.com/EVAyo/EVAyo/blob/main/github-metrics.svg)
 
