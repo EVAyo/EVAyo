@@ -1316,7 +1316,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            871 Commits
+            875 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1501,14 +1501,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.5889783227127" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.5889783227127" y="0" width="2.8777974396308474" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.46677576234356" y="0" width="1.0405304870600371" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.5073062494036" y="0" width="0.996834278329849" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.50414052773345" y="0" width="0.3451210782704494" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.8492616060039" y="0" width="0.07323644164105661" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.9224980476449" y="0" width="0.04774448171085057" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="459.9702425293558" y="0" width="0.029757470644221646" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.57465986629234" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.57465986629234" y="0" width="2.877706795952292" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.45236666224463" y="0" width="1.0549592787715825" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.5073259410162" y="0" width="0.9968302050946519" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.5041561461108" y="0" width="0.3451102077888614" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.8492663538997" y="0" width="0.07323413486977964" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.92250048876946" y="0" width="0.04774297787482883" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="459.97024346664426" y="0" width="0.02975653335566667" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1584,7 +1584,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 55.4 characters per line of code written</li>
+                        <li>Has approximately 53.1 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2638,7 +2638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>s337443501/NeteaseMusicCloudMatch</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2675,7 +2675,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rachpt/lanzou-gui</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2891,7 +2891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29/09/2021, 00:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 29/09/2021, 01:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
