@@ -1387,7 +1387,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            1061 Commits
+            1063 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1572,14 +1572,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.5557711449395" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.5557711449395" y="0" width="2.8861189844137134" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.4418901293532" y="0" width="1.0654978360274117" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.50738796538064" y="0" width="0.996788784290453" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5041767496711" y="0" width="0.34509586759103156" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.84927261726216" y="0" width="0.07323109180713405" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.92250370906925" y="0" width="0.047740994033921604" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="459.9702447031032" y="0" width="0.029755296896803906" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.53362267277595" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.53362267277595" y="0" width="2.885978356728301" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.41960102950424" y="0" width="1.0878596641931428" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.5074606936974" y="0" width="0.9967402152257896" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.5042009089232" y="0" width="0.3450790526109954" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.8492799615342" y="0" width="0.07322752358316385" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.92250748511736" y="0" width="0.04773866782854804" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="459.9702461529459" y="0" width="0.029753847054107205" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1655,7 +1655,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 26.5 characters per line of code written</li>
+                        <li>Has approximately 28.0 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -2833,7 +2833,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ziishaned/learn-regex</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2964,7 +2964,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/10/2021, 23:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 11/10/2021, 00:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
