@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vooidzero/B23Downloader</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">下载B站 视频（投稿视频、番剧、电影、课程）、直播、漫画。（使用 Qt C++ 开发）</div>
@@ -1550,7 +1550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wmjordan/PDFPatcher</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等</div>
@@ -1597,7 +1597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xfangfang/Macast</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Macast is a cross-platform application which using mpv as DLNA Media Renderer.</div>
@@ -1801,7 +1801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2022, 06:13:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 17 Jan 2022, 07:13:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
