@@ -11,6 +11,15 @@
 [![wakatime](https://wakatime.com/badge/user/b490fb12-94f2-4fb4-afc7-deb540f5e8d6.svg)](https://wakatime.com/@b490fb12-94f2-4fb4-afc7-deb540f5e8d6)
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 Weekly development breakdown</a>
+```text
+JavaScript     🕓 2h56m █████████████████▋░░░░░░ 73.8%
+Python         🕓 54m   █████▌░░░░░░░░░░░░░░░░░░ 22.9%
+YAML           🕓 3m    ▎░░░░░░░░░░░░░░░░░░░░░░░  1.4%
+GitIgnore file 🕓 2m    ▎░░░░░░░░░░░░░░░░░░░░░░░  1.2%
+XML            🕓 1m    ▏░░░░░░░░░░░░░░░░░░░░░░░  0.7%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 <!--![Top Langs](https://github.com/EVAyo/EVAyo/blob/main/github-metrics.svg)-->
