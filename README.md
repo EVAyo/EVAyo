@@ -1,15 +1,17 @@
- ### Hi there 👋
+<!--### Hi there 👋
 
  - 🔭 I’m currently interested in JavaScript and Python.
  - 🌱 I’m currently learning Chemistry.
  - 💬 Ask me about: Anything!
  - 📫 How to reach me: 
  - ⚡ Fun fact: Love Funko!
+-->
 
-[![Github](https://img.shields.io/github/followers/EVAyo?label=Follow&style=social)](https://github.com/EVAyo)
-![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1959?logoColor=dark%26project=%26recentMS=0%26showProject=false)
-[![wakatime](https://wakatime.com/badge/user/b490fb12-94f2-4fb4-afc7-deb540f5e8d6.svg)](https://wakatime.com/@b490fb12-94f2-4fb4-afc7-deb540f5e8d6)
-
+<p align="center">
+<!--![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1959?logoColor=dark%26project=%26recentMS=0%26showProject=false)-->
+<img src="https://wakatime.com/badge/user/b490fb12-94f2-4fb4-afc7-deb540f5e8d6.svg" alt="wakatime" />
+</p>
+ 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -23,10 +25,16 @@ JSON       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 
 <!--![Top Langs](https://github.com/EVAyo/EVAyo/blob/main/github-metrics.svg)-->
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVAyo&layout=compact">
 
-<img  align="middle" src="https://github-readme-stats.vercel.app/api?username=EVAyo&show_icons=true">
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVAyo&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EVAyo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="EVAyo's Github Stats" />
+</p>
 
 
 #### Thank you for the visit.
-![](http://profile-counter.glitch.me/EVAyo/count.svg)
+<!--![](http://profile-counter.glitch.me/EVAyo/count.svg)-->
+<p align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=EVAyo.EVAyo" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=EVAyo.EVAyo" alt="visitor badge"/> 
+</p>
