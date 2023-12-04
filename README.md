@@ -45,6 +45,8 @@ Other  🕓 3m    ▎░░░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 </p>
 
+<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">
+
 <!--![Top Langs](https://github.com/EVAyo/EVAyo/blob/main/github-metrics.svg)-->
 
 <!--
