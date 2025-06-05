@@ -35,13 +35,13 @@
 ---
 <p align="center">
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
 ```text
 Bash                🕓 39m ███████████████▌░░░░░ 74.2%
 Siyuan              🕓 8m  ███▏░░░░░░░░░░░░░░░░░ 15.1%
 Sublime Text Config 🕓 5m  ██▏░░░░░░░░░░░░░░░░░░ 10.7%
 ```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 </p>
 
