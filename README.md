@@ -42,11 +42,10 @@ Image (svg)     🕓 22m   ▎░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
+#### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🚫 啊哦，最近好像没有玩过游戏呢
+🎮 NARAKA: BLADEPOINT                🕘 8 hrs 10 mins
 ```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 
