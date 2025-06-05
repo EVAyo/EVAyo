@@ -33,25 +33,37 @@
 <!--![pcb](pcb.jpg)->
 
 ---
-<p align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
 ```text
-Bash                🕓 39m ███████████████▌░░░░░ 74.2%
-Siyuan              🕓 8m  ███▏░░░░░░░░░░░░░░░░░ 15.1%
-Sublime Text Config 🕓 5m  ██▏░░░░░░░░░░░░░░░░░░ 10.7%
+Vue.js          🕓 21h3m ██████████████░░░░░░░░░ 61.2%
+TypeScript      🕓 9h22m ██████▎░░░░░░░░░░░░░░░░ 27.2%
+JavaScript      🕓 1h41m █▏░░░░░░░░░░░░░░░░░░░░░  4.9%
+Less            🕓 35m   ▍░░░░░░░░░░░░░░░░░░░░░░  1.7%
+Image (svg)     🕓 22m   ▎░░░░░░░░░░░░░░░░░░░░░░  1.1%
 ```
 <!-- waka-box end -->
 
- <!-- steam-box start -->
-#### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 8 hrs 10 mins
+🚫 啊哦，最近好像没有玩过游戏呢
 ```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
- 
-</p>
+
+
+</td>
+</tr>
+</table>
+
 
 <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">
 
