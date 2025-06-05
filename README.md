@@ -45,7 +45,12 @@ Sublime Text Config 🕓 5m  ██▏░░░░░░░░░░░░░░
 <!-- waka-box end -->
 
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
+```text
+🎮 NARAKA: BLADEPOINT                🕘 8 hrs 10 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
  
 </p>
 
