@@ -1,12 +1,3 @@
-<!--### Hi there 👋
-
- - 🔭 I’m currently interested in JavaScript and Python.
- - 🌱 I’m currently learning Chemistry.
- - 💬 Ask me about: Anything!
- - 📫 How to reach me: 
- - ⚡ Fun fact: Love Funko!
--->
-
 <p align="center">
 <!--![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1959?logoColor=dark%26project=%26recentMS=0%26showProject=false)-->
 <!--<img src="https://wakatime.com/badge/user/b490fb12-94f2-4fb4-afc7-deb540f5e8d6.svg" alt="wakatime" />-->
@@ -30,9 +21,6 @@
 
 ---
 
-<!--![pcb](pcb.jpg)->
-
----
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -46,6 +34,7 @@ JavaScript      🕓 1h41m █▏░░░░░░░░░░░░░░░�
 Less            🕓 35m   ▍░░░░░░░░░░░░░░░░░░░░░░  1.7%
 Image (svg)     🕓 22m   ▎░░░░░░░░░░░░░░░░░░░░░░  1.1%
 ```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
 
@@ -53,10 +42,11 @@ Image (svg)     🕓 22m   ▎░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
+#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 8 hrs 10 mins
+🚫 啊哦，最近好像没有玩过游戏呢
 ```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 
@@ -77,8 +67,9 @@ Image (svg)     🕓 22m   ▎░░░░░░░░░░░░░░░░�
 -->
 
 
-<!--![](http://profile-counter.glitch.me/EVAyo/count.svg)-->
+<!--![](http://profile-counter.glitch.me/EVAyo/count.svg)
 <p align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=EVAyo.EVAyo" alt="visitor badge"/>-->
-<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=EVAyo.EVAyo" alt="visitor badge"/>-->
+<img src="https://visitor-badge.glitch.me/badge?page_id=EVAyo.EVAyo" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=EVAyo.EVAyo" alt="visitor badge"/>
 </p>
+-->
