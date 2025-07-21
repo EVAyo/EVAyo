@@ -41,7 +41,7 @@ Other      🕓 2m  ██▉░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 21 hrs 29 mins
+🎮 NARAKA: BLADEPOINT                🕘 21 hrs 1 mins
 ```
 <!-- steam-box end -->
 
