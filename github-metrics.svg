@@ -1537,7 +1537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiveContainer/LiveContainer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run iOS apps without actually installing them!</div>
@@ -1590,7 +1590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>instaloader/instaloader</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download pictures (or videos) along with their captions and other metadata from Instagram.</div>
@@ -1643,7 +1643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lzghzr/TampermonkeyJS</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一些自用的TM脚本</div>
@@ -1789,7 +1789,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2025, 14:30:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2025, 15:23:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
