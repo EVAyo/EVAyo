@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qd-today/templates</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于开源新版 QD 框架站发布的公共har模板库，仅供示例</div>
@@ -1537,7 +1537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiveContainer/LiveContainer</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run iOS apps without actually installing them!</div>
@@ -1590,7 +1590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>instaloader/instaloader</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download pictures (or videos) along with their captions and other metadata from Instagram.</div>
@@ -1643,7 +1643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lzghzr/TampermonkeyJS</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一些自用的TM脚本</div>
@@ -1789,7 +1789,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2025, 01:20:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2025, 02:29:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
