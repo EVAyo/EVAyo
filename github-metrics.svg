@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cppla/ServerStatus</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/</div>
@@ -1542,7 +1542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lollipopkit/flutter_server_box</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ServerBox - server status &amp; toolbox</div>
@@ -1794,7 +1794,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2025, 13:17:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2025, 14:24:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
