@@ -1501,7 +1501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netbox-community/netbox</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/</div>
@@ -1554,7 +1554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nelvko/clash-for-linux-install</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😼 优雅地使用基于 clash/mihomo 的代理环境</div>
@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fujiapple852/trippy</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A network diagnostic tool</div>
@@ -1660,7 +1660,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EasyTier/EasyTier</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, decentralized mesh VPN with WireGuard support.</div>
@@ -1694,7 +1694,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        709
+                                        699
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1812,7 +1812,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2025, 18:19:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 19:16:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
