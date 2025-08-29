@@ -1479,7 +1479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>o2sh/onefetch</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line Git information tool</div>
@@ -1532,7 +1532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hatoo/oha</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</div>
@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pot-app/pot-desktop</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.</div>
@@ -1638,7 +1638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netbox-community/netbox</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/</div>
@@ -1790,7 +1790,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2025, 12:21:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2025, 13:16:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
