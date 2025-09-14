@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitui-org/gitui</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blazing 💥 fast terminal-ui for git written in rust 🦀</div>
@@ -1648,7 +1648,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PKUHPC/CraneSched</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An HPC and Cloud Computing Fused Job Scheduling System</div>
@@ -1800,7 +1800,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2025, 16:19:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2025, 17:15:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
