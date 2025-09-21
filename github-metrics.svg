@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immich-app/immich</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance self-hosted photo and video management solution.</div>
@@ -1542,7 +1542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>y0ngb1n/dockerized</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐳 Build once, run anywhere</div>
@@ -1800,7 +1800,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2025, 12:19:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2025, 13:15:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
