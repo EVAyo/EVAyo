@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AutoAccountingOrg/AutoAccounting</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">你的每一笔账单都值得记录！</div>
@@ -1807,7 +1807,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2025, 17:20:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2025, 19:15:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
