@@ -43,8 +43,8 @@ Markdown   🕓 3m  ▉░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 8 hrs 34 mins
-🎮 Salt Player for Windows           🕘 3 hrs 45 mins
+🎮 NARAKA: BLADEPOINT                🕘 8 hrs 1 mins
+🎮 Salt Player for Windows           🕘 3 hrs 2 mins
 ```
 <!-- steam-box end -->
 
