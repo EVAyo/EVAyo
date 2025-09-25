@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AutoAccountingOrg/AutoAccounting</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">你的每一笔账单都值得记录！</div>
@@ -1617,7 +1617,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immich-app/immich</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance self-hosted photo and video management solution.</div>
@@ -1822,7 +1822,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2025, 13:17:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2025, 14:26:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
