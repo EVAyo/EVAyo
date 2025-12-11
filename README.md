@@ -41,7 +41,6 @@ Still Gathering Statistics...
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 16 hrs 19 mins
-🎮 Split Fiction                     🕘 0 hrs 1 mins
 ```
 <!-- steam-box end -->
 
