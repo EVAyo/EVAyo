@@ -41,7 +41,7 @@ Still Gathering Statistics...
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 17 hrs 42 mins
-🎮 Lossless Scaling                  🕘 10 hrs 5 mins
+🎮 Lossless Scaling                  🕘 11 hrs 5 mins
 🎮 Salt Player for Windows           🕘 0 hrs 1 mins
 ```
 <!-- steam-box end -->
