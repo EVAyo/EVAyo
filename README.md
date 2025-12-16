@@ -40,9 +40,9 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 NARAKA: BLADEPOINT                🕘 19 hrs 21 mins
+🎮 NARAKA: BLADEPOINT                🕘 19 hrs 33 mins
 🎮 Lossless Scaling                  🕘 17 hrs 22 mins
-🎮 Salt Player for Windows           🕘 6 hrs 33 mins
+🎮 Salt Player for Windows           🕘 7 hrs 3 mins
 ```
 <!-- steam-box end -->
 
