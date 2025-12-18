@@ -41,7 +41,7 @@ JSON 🕓 13m ██████████████████████
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 19 hrs 43 mins
-🎮 Salt Player for Windows           🕘 18 hrs 29 mins
+🎮 Salt Player for Windows           🕘 19 hrs 30 mins
 🎮 Lossless Scaling                  🕘 17 hrs 22 mins
 ```
 <!-- steam-box end -->
