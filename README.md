@@ -39,11 +39,11 @@ JSON 🕓 13m ██████████████████████
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 NARAKA: BLADEPOINT                🕘 19 hrs 43 mins
-🎮 Salt Player for Windows           🕘 21 hrs 1 mins
+🎮 NARAKA: BLADEPOINT                🕘 18 hrs 42 mins
+🎮 Salt Player for Windows           🕘 22 hrs 31 mins
 🎮 Lossless Scaling                  🕘 17 hrs 22 mins
 🎮 Draw & Guess                      🕘 0 hrs 4 mins
+🎮 Cyber Manhunt                     🕘 1 hrs 0 mins
 ```
 <!-- steam-box end -->
 
