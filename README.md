@@ -40,7 +40,7 @@ JSON   🕓 13m ████████▎░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 19 hrs 43 mins
+🎮 NARAKA: BLADEPOINT                🕘 18 hrs 57 mins
 🎮 Salt Player for Windows           🕘 23 hrs 58 mins
 🎮 Lossless Scaling                  🕘 17 hrs 22 mins
 🎮 Draw & Guess                      🕘 0 hrs 4 mins
