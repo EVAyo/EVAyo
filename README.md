@@ -41,9 +41,9 @@ JSON   🕓 13m ████████▎░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 NARAKA: BLADEPOINT                🕘 17 hrs 57 mins
+🎮 Sniper Elite 4                    🕘 0 hrs 7 mins
 🎮 Salt Player for Windows           🕘 24 hrs 1 mins
 🎮 Lossless Scaling                  🕘 17 hrs 22 mins
-🎮 Draw & Guess                      🕘 0 hrs 4 mins
 🎮 Cyber Manhunt                     🕘 2 hrs 21 mins
 ```
 <!-- steam-box end -->
