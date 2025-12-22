@@ -42,7 +42,7 @@ JSON   🕓 13m ████████▎░░░░░░░░░░░░�
 ```text
 🎮 NARAKA: BLADEPOINT                🕘 23 hrs 34 mins
 🎮 Sniper Elite 4                    🕘 0 hrs 7 mins
-🎮 Salt Player for Windows           🕘 25 hrs 2 mins
+🎮 Salt Player for Windows           🕘 25 hrs 27 mins
 🎮 Lossless Scaling                  🕘 17 hrs 22 mins
 🎮 Cyber Manhunt                     🕘 2 hrs 21 mins
 ```
