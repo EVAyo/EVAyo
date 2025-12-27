@@ -41,8 +41,8 @@ Still Gathering Statistics...
 ```text
 🎮 NARAKA: BLADEPOINT                🕘 23 hrs 25 mins
 🎮 Sniper Elite 4                    🕘 0 hrs 7 mins
-🎮 Salt Player for Windows           🕘 37 hrs 7 mins
-🎮 Lossless Scaling                  🕘 5 hrs 5 mins
+🎮 Salt Player for Windows           🕘 38 hrs 7 mins
+🎮 Lossless Scaling                  🕘 4 hrs 13 mins
 🎮 Cyber Manhunt                     🕘 2 hrs 21 mins
 ```
 <!-- steam-box end -->
