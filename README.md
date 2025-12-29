@@ -42,7 +42,7 @@ Still Gathering Statistics...
 🎮 NARAKA: BLADEPOINT                🕘 34 hrs 9 mins
 🎮 Soundpad                          🕘 1 hrs 23 mins
 🎮 Sniper Elite 4                    🕘 0 hrs 7 mins
-🎮 Salt Player for Windows           🕘 37 hrs 52 mins
+🎮 Salt Player for Windows           🕘 36 hrs 57 mins
 🎮 Cyber Manhunt                     🕘 2 hrs 21 mins
 ```
 <!-- steam-box end -->
