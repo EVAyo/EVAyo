@@ -39,10 +39,10 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 38 hrs 47 mins
+🎮 NARAKA: BLADEPOINT                🕘 39 hrs 17 mins
 🎮 Soundpad                          🕘 1 hrs 23 mins
 🎮 Sniper Elite 4                    🕘 0 hrs 7 mins
-🎮 Salt Player for Windows           🕘 36 hrs 3 mins
+🎮 Salt Player for Windows           🕘 35 hrs 41 mins
 🎮 Cyber Manhunt                     🕘 2 hrs 21 mins
 ```
 <!-- steam-box end -->
