@@ -40,11 +40,11 @@ Python 🕓 5m  ███▊░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
+💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 56 hrs 4 mins
-🎮 Soundpad                          🕘 26 hrs 20 mins
+🎮 Soundpad                          🕘 27 hrs 30 mins
 🎮 Sniper Elite 4                    🕘 0 hrs 7 mins
-🎮 Salt Player for Windows           🕘 20 hrs 11 mins
-🎮 Cyber Manhunt                     🕘 0 hrs 27 mins
+🎮 Salt Player for Windows           🕘 19 hrs 32 mins
 ```
 <!-- steam-box end -->
 
