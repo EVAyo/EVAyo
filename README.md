@@ -42,7 +42,7 @@ Python 🕓 5m  ███▊░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 54 hrs 12 mins
-🎮 Soundpad                          🕘 28 hrs 0 mins
+🎮 Soundpad                          🕘 29 hrs 31 mins
 🎮 Sniper Elite 4                    🕘 0 hrs 7 mins
 🎮 Salt Player for Windows           🕘 19 hrs 32 mins
 ```
