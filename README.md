@@ -42,7 +42,7 @@ Python 🕓 5m  ███▊░░░░░░░░░░░░░░░░░�
 ```text
 🎮 NARAKA: BLADEPOINT                🕘 62 hrs 57 mins
 🎮 Soundpad                          🕘 32 hrs 34 mins
-🎮 Salt Player for Windows           🕘 22 hrs 30 mins
+🎮 Salt Player for Windows           🕘 23 hrs 11 mins
 ```
 <!-- steam-box end -->
 
