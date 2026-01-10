@@ -43,9 +43,9 @@ CSS        🕓 3m    ▊░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 62 hrs 7 mins
+🎮 NARAKA: BLADEPOINT                🕘 61 hrs 24 mins
 🎮 Soundpad                          🕘 32 hrs 34 mins
-🎮 Salt Player for Windows           🕘 13 hrs 39 mins
+🎮 Salt Player for Windows           🕘 12 hrs 56 mins
 ```
 <!-- steam-box end -->
 
