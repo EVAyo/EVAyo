@@ -40,8 +40,8 @@ HTML   🕓 0s  █▎░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 30 hrs 9 mins
-🎮 Soundpad                          🕘 1 hrs 48 mins
+🎮 NARAKA: BLADEPOINT                🕘 29 hrs 30 mins
+🎮 Soundpad                          🕘 0 hrs 58 mins
 🎮 Salt Player for Windows           🕘 3 hrs 41 mins
 ```
 <!-- steam-box end -->
