@@ -41,7 +41,7 @@ HTML 🕓 0s ██████████████████████�
 ```text
 🎮 NARAKA: BLADEPOINT                🕘 25 hrs 50 mins
 🎮 Soundpad                          🕘 1 hrs 55 mins
-🎮 Salt Player for Windows           🕘 5 hrs 32 mins
+🎮 Salt Player for Windows           🕘 4 hrs 52 mins
 ```
 <!-- steam-box end -->
 
