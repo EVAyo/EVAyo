@@ -42,7 +42,7 @@ TOML   🕓 0s  ▍░░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 NARAKA: BLADEPOINT                🕘 36 hrs 23 mins
-🎮 Soundpad                          🕘 21 hrs 11 mins
+🎮 Soundpad                          🕘 21 hrs 23 mins
 🎮 Salt Player for Windows           🕘 3 hrs 43 mins
 ```
 <!-- steam-box end -->
