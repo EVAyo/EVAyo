@@ -43,7 +43,7 @@ TOML   🕓 0s  ▍░░░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 44 hrs 28 mins
-🎮 Soundpad                          🕘 35 hrs 52 mins
+🎮 Soundpad                          🕘 36 hrs 52 mins
 🎮 Salt Player for Windows           🕘 3 hrs 43 mins
 ```
 <!-- steam-box end -->
