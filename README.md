@@ -42,7 +42,7 @@ TOML   🕓 0s  ▍░░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 NARAKA: BLADEPOINT                🕘 46 hrs 34 mins
+🎮 NARAKA: BLADEPOINT                🕘 47 hrs 34 mins
 🎮 Soundpad                          🕘 39 hrs 53 mins
 🎮 Salt Player for Windows           🕘 3 hrs 43 mins
 ```
