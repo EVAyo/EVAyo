@@ -41,7 +41,7 @@ Still Gathering Statistics...
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 53 hrs 21 mins
-🎮 Soundpad                          🕘 45 hrs 27 mins
+🎮 Soundpad                          🕘 46 hrs 27 mins
 🎮 Salt Player for Windows           🕘 3 hrs 43 mins
 ```
 <!-- steam-box end -->
