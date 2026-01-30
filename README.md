@@ -42,8 +42,8 @@ Siyuan 🕓 1m ████████████▍░░░░░░░░�
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 68 hrs 32 mins
-🎮 Soundpad                          🕘 62 hrs 28 mins
-🎮 Salt Player for Windows           🕘 1 hrs 33 mins
+🎮 Soundpad                          🕘 63 hrs 29 mins
+🎮 Salt Player for Windows           🕘 0 hrs 40 mins
 ```
 <!-- steam-box end -->
 
