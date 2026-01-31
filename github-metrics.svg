@@ -1484,7 +1484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YuehaiTeam/kachina-installer</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal installer based on tauri. Offline or online install, diffed online upgrade, uninstall and more.</div>
@@ -1789,7 +1789,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2026, 18:22:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2026, 19:19:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
