@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ZhiXuanWang/cf-speed-dns</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。</div>
@@ -1795,7 +1795,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2026, 23:36:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Feb 2026, 00:38:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
