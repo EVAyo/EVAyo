@@ -41,7 +41,7 @@ Still Gathering Statistics...
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 NARAKA: BLADEPOINT                🕘 83 hrs 10 mins
-🎮 Soundpad                          🕘 79 hrs 7 mins
+🎮 Soundpad                          🕘 79 hrs 39 mins
 ```
 <!-- steam-box end -->
 
