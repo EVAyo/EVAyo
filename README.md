@@ -39,8 +39,8 @@ JavaScript 🕓 6m ████████████████████�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 46 hrs 40 mins
-🎮 Soundpad                          🕘 6 hrs 8 mins
+🎮 NARAKA: BLADEPOINT                🕘 45 hrs 59 mins
+🎮 Soundpad                          🕘 5 hrs 47 mins
 ```
 <!-- steam-box end -->
 
