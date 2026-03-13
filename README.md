@@ -42,7 +42,7 @@ CSS        🕓 0s  ░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 50 hrs 13 mins
+🎮 NARAKA: BLADEPOINT                🕘 51 hrs 13 mins
 🎮 Soundpad                          🕘 1 hrs 39 mins
 🎮 Mini Metro                        🕘 0 hrs 32 mins
 ```
