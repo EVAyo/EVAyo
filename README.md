@@ -28,7 +28,10 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
 ```text
-Still Gathering Statistics...
+Siyuan     🕓 23m █████████████████████▎░░░░░░░░ 71.0%
+TypeScript 🕓 6m  █████▋░░░░░░░░░░░░░░░░░░░░░░░░ 18.9%
+JavaScript 🕓 3m  ██▉░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.7%
+CSS        🕓 0s  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.4%
 ```
 <!-- waka-box end -->
 
