@@ -43,7 +43,6 @@ JSON with Comments 🕓 2m    ▍░░░░░░░░░░░░░░░�
 ```text
 🎮 NARAKA: BLADEPOINT                🕘 87 hrs 15 mins
 🎮 Soundpad                          🕘 1 hrs 39 mins
-🎮 Mini Metro                        🕘 0 hrs 19 mins
 ```
 <!-- steam-box end -->
 
