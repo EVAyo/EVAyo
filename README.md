@@ -28,7 +28,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
 ```text
-CSV                🕓 1h13m ████████▉░░░░░░░░░░░ 44.6%
+CSV                🕓 1h13m ████████▉░░░░░░░░░░░ 44.5%
 Siyuan             🕓 29m   ███▌░░░░░░░░░░░░░░░░ 17.8%
 JSON               🕓 27m   ███▍░░░░░░░░░░░░░░░░ 16.9%
 Python             🕓 19m   ██▍░░░░░░░░░░░░░░░░░ 12.0%
