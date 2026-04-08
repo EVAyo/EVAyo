@@ -28,9 +28,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
 ```text
-Bash 🕓 9m █████████████▍░░░░░░░░░░░░░░░░░░░░░░░ 36.3%
-Go   🕓 8m ████████████▍░░░░░░░░░░░░░░░░░░░░░░░░ 33.5%
-HTML 🕓 8m ███████████▏░░░░░░░░░░░░░░░░░░░░░░░░░ 30.2%
+Still Gathering Statistics...
 ```
 <!-- waka-box end -->
 
