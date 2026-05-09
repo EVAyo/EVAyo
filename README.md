@@ -28,8 +28,8 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
 ```text
-Other  🕓 1h16m ███████████████████████████████▊ 99.3%
-Siyuan 🕓 0s    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.7%
+Other  🕓 1h43m ███████████████████████████████▊ 99.5%
+Siyuan 🕓 0s    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
 ```
 <!-- waka-box end -->
 
