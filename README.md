@@ -43,7 +43,7 @@ INI                 🕓 0s  ░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 44 hrs 46 mins
+🎮 NARAKA: BLADEPOINT                🕘 44 hrs 4 mins
 💻 Wallpaper Engine                  🕘 0 hrs 3 mins
 ```
 <!-- steam-box end -->
