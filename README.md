@@ -53,8 +53,10 @@ Sublime Text Config 🕓 2m    ▏░░░░░░░░░░░░░░░�
 </tr>
 </table>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">
+<!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
 
 <!--![Top Langs](https://github.com/EVAyo/EVAyo/blob/main/github-metrics.svg)-->
 
