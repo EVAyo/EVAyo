@@ -32,9 +32,9 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
 ```text
-Other           🕓 3h14m ██████████████▉░░░░░░░░ 65.2%
-TOML            🕓 1h31m ███████░░░░░░░░░░░░░░░░ 30.6%
-Java Properties 🕓 12m   ▉░░░░░░░░░░░░░░░░░░░░░░  4.3%
+Other           🕓 3h33m ███████████████▍░░░░░░░ 67.2%
+TOML            🕓 1h31m ██████▌░░░░░░░░░░░░░░░░ 28.8%
+Java Properties 🕓 12m   ▉░░░░░░░░░░░░░░░░░░░░░░  4.0%
 ```
 <!-- waka-box end -->
 
