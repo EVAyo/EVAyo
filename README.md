@@ -53,7 +53,7 @@ Other 🕓 3h47m █████████████████████
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -94,13 +94,13 @@ Other 🕓 3h47m █████████████████████
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    3 hrs 39 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 47 mins       █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-XTerminal                3 hrs 39 mins       █████████████████████████   100.00 % 
+XTerminal                3 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -116,7 +116,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-06-22 17:55:45 UTC
+ Last Updated on 2026-06-22 21:19:48 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
