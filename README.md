@@ -98,35 +98,35 @@ Batchfile 🕓 1m   ▎░░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.21 % 
-Other                    38 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-INI                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Python                   1 hr 9 mins         ████████████████░░░░░░░░░   65.21 % 
+JSON                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+INI                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 编辑器: 
-Claude Code              1 hr 31 mins        ████████████████░░░░░░░░░   64.98 % 
-XTerminal                38 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-Sublime Text             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Claude Code              1 hr 31 mins        ██████████████████████░░░   86.11 % 
+Sublime Text             10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+XTerminal                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 操作系统: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 2026-07-03 08:30:31 UTC
+ Last Updated on 2026-07-03 18:28:47 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
