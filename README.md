@@ -43,7 +43,7 @@ INI 🕓 10m ██████████████████████�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 32 hrs 10 mins
+🎮 NARAKA: BLADEPOINT                🕘 31 hrs 48 mins
 ```
 <!-- steam-box end -->
 
