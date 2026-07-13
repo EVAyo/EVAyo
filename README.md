@@ -43,8 +43,7 @@ Text 🕓 48m ██████████████████████
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 36 hrs 23 mins
-🎮 Soundpad                          🕘 4 hrs 9 mins
+🚫 啊哦，最近好像没有玩过游戏呢
 ```
 <!-- steam-box end -->
 
