@@ -1517,7 +1517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qinshihu/itops-agent-platform</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。ITOps Agent Platform通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行， 支持国内外主流大模型，旨在 Zabbix/Prometheus 告警自动修复闭环，Docker 一键部署，多平台兼容。</div>
@@ -1821,7 +1821,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2026, 06:01:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2026, 07:57:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
