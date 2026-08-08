@@ -59,7 +59,7 @@ JSON  🕓 0s  █▍░░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -76,21 +76,21 @@ JSON  🕓 0s  █▍░░░░░░░░░░░░░░░░░░░�
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-🌆 白天                     546 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-🌃 傍晚                     700 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-🌙 晚上                     907 commits         █████████░░░░░░░░░░░░░░░░   36.98 % 
+🌞 早晨                     277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+🌆 白天                     527 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+🌃 傍晚                     642 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌙 晚上                     864 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
 ```
 📅 **星期四 时的我最有干劲** 
 
 ```text
-星期一                      210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-星期二                      330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-星期三                      455 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-星期四                      511 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-星期五                      309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-星期六                      406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-星期日                      232 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+星期一                      187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+星期二                      299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+星期三                      425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+星期四                      489 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+星期五                      298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+星期六                      398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+星期日                      214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 ```
 
 
@@ -100,34 +100,36 @@ JSON  🕓 0s  █▍░░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Text                     19 mins             █████████████████████░░░░   85.46 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Other                    23 mins             █████████████░░░░░░░░░░░░   53.33 % 
+Text                     19 mins             ███████████░░░░░░░░░░░░░░   44.60 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 编辑器: 
-Claude Code              21 mins             ████████████████████████░   96.03 % 
-Sublime Text             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Claude Code              42 mins             ████████████████████████░   97.93 % 
+Sublime Text             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 操作系统: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (100.0%)
+⏱ AI Coding Time: 43 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 2,946 Input Tokens, 872 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.23 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 85,401 characters per prompt
+📚 Verbose Prompter — average 72,266 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -145,7 +147,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-08 15:51:36 UTC
+ Last Updated on 2026-08-08 20:53:43 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
