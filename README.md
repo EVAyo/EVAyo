@@ -59,7 +59,7 @@ JSON  🕓 0s  ▋░░░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -100,36 +100,36 @@ JSON  🕓 0s  ▋░░░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    23 mins             █████████████░░░░░░░░░░░░   53.33 % 
-Text                     19 mins             ███████████░░░░░░░░░░░░░░   44.60 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    1 hr 26 mins        ████████████████████░░░░░   80.91 % 
+Text                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 编辑器: 
-Claude Code              42 mins             ████████████████████████░   97.93 % 
-Sublime Text             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Claude Code              1 hr 45 mins        █████████████████████████   99.15 % 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 操作系统: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (100.0%)
+⏱ AI Coding Time: 1 hr 46 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,946 Input Tokens, 872 Output Tokens
+🔤 14,989 Input Tokens, 29,657 Output Tokens
 
-💵 $0.23 Estimated AI Cost This Week
+💵 $5.92 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 72,266 characters per prompt
+📚 Verbose Prompter — average 58,720 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -147,7 +147,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-09 11:46:42 UTC
+ Last Updated on 2026-08-09 21:53:17 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
