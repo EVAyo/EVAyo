@@ -101,25 +101,25 @@ Markdown   🕓 16m   █▏░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    3 hrs 11 mins       █████████████░░░░░░░░░░░░   50.28 % 
-Python                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-PowerShell               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Other                    3 hrs 15 mins       █████████████░░░░░░░░░░░░   50.81 % 
+Python                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+PowerShell               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 编辑器: 
-Claude Code              5 hrs 5 mins        ████████████████████░░░░░   80.15 % 
-XTerminal                1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Sublime Text             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Claude Code              5 hrs 5 mins        ████████████████████░░░░░   79.30 % 
+XTerminal                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Sublime Text             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 操作系统: 
-Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 15 mins (82.67%)
+⏱ AI Coding Time: 5 hrs 15 mins (81.79%)
 
 ✍️ 2,983 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -151,7 +151,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-13 17:18:13 UTC
+ Last Updated on 2026-08-13 18:14:13 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
