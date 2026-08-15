@@ -77,21 +77,21 @@ JavaScript 🕓 10m   ▊░░░░░░░░░░░░░░░░░░�
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-🌆 白天                     527 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌃 傍晚                     642 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-🌙 晚上                     864 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌞 早晨                     277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+🌆 白天                     517 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌃 傍晚                     641 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌙 晚上                     858 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
 ```
 📅 **星期四 时的我最有干劲** 
 
 ```text
-星期一                      187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-星期二                      299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-星期三                      425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-星期四                      489 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-星期五                      298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-星期六                      398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-星期日                      214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+星期一                      187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+星期二                      299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+星期三                      416 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+星期四                      488 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+星期五                      298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+星期六                      398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+星期日                      207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 ```
 
 
@@ -101,39 +101,39 @@ JavaScript 🕓 10m   ▊░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    3 hrs 12 mins       █████████████░░░░░░░░░░░░   52.75 % 
-Python                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-PowerShell               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    2 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.67 % 
+Python                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+PowerShell               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 编辑器: 
-Claude Code              4 hrs 46 mins       ████████████████████░░░░░   78.44 % 
-XTerminal                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Sublime Text             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Claude Code              4 hrs 24 mins       ███████████████████░░░░░░   77.02 % 
+XTerminal                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Sublime Text             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 操作系统: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (80.81%)
+⏱ AI Coding Time: 4 hrs 33 mins (79.55%)
 
 ✍️ 3,249 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 685,377 Input Tokens, 335,420 Output Tokens
+🔤 678,172 Input Tokens, 333,562 Output Tokens
 
-💵 $148.23 Estimated AI Cost This Week
+💵 $147.77 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 65 AI Prompts
+🧠 14 AI Sessions, 59 AI Prompts
 
 Deepseek                 3,269 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 996 characters per prompt
+📄 Detailed Prompter — average 1,096 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -151,7 +151,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-15 08:47:51 UTC
+ Last Updated on 2026-08-15 17:39:57 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
