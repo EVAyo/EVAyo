@@ -101,39 +101,39 @@ JavaScript 🕓 10m   ▊░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    2 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.67 % 
-Python                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-PowerShell               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Other                    1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   37.96 % 
+Python                   1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+PowerShell               56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 编辑器: 
-Claude Code              4 hrs 24 mins       ███████████████████░░░░░░   77.02 % 
-XTerminal                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Sublime Text             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Claude Code              3 hrs 19 mins       ██████████████████░░░░░░░   71.68 % 
+XTerminal                1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Sublime Text             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 操作系统: 
-Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 33 mins (79.55%)
+⏱ AI Coding Time: 3 hrs 28 mins (74.79%)
 
 ✍️ 3,249 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 678,172 Input Tokens, 333,562 Output Tokens
+🔤 556,099 Input Tokens, 275,268 Output Tokens
 
-💵 $147.77 Estimated AI Cost This Week
+💵 $144.41 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 59 AI Prompts
+🧠 13 AI Sessions, 55 AI Prompts
 
 Deepseek                 3,269 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,096 characters per prompt
+📄 Detailed Prompter — average 1,174 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -151,7 +151,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-16 07:02:09 UTC
+ Last Updated on 2026-08-16 18:51:35 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
