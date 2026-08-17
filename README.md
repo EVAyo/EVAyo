@@ -58,7 +58,7 @@ JavaScript 🕓 10m   █░░░░░░░░░░░░░░░░░░�
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2040%20mins-blue?style=flat)
 
@@ -101,39 +101,39 @@ JavaScript 🕓 10m   █░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   37.96 % 
-Python                   1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-PowerShell               56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Python                   40 mins             ██████████████░░░░░░░░░░░   57.01 % 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 编辑器: 
-Claude Code              3 hrs 19 mins       ██████████████████░░░░░░░   71.68 % 
-XTerminal                1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Sublime Text             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Claude Code              56 mins             █████████████████████░░░░   82.23 % 
+Sublime Text             8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+XTerminal                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 💻 操作系统: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 28 mins (74.79%)
+⏱ AI Coding Time: 56 mins (82.23%)
 
-✍️ 3,249 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 637 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 556,099 Input Tokens, 275,268 Output Tokens
+🔤 141,386 Input Tokens, 17,820 Output Tokens
 
-💵 $144.41 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 55 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
-Deepseek                 3,269 lines         █████████████████████████   100.00 % 
+Deepseek                 18 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,174 characters per prompt
+📝 Concise Prompter — average 144 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -151,7 +151,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-17 13:56:54 UTC
+ Last Updated on 2026-08-17 17:45:33 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
