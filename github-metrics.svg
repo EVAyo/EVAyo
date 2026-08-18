@@ -1507,7 +1507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mofeng-git/One-KVM</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">One-KVM Rust 是一个用 Rust 编写的轻量级 IP-KVM 解决方案，可通过网络远程管理服务器和工作站，实现 BIOS 级远程控制。One-KVM Rust  is a lightweight IP-KVM solution written in Rust. It lets you manage servers and workstations over the network, including at BIOS level.</div>
@@ -1560,7 +1560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>UI-Lovelace-Minimalist/UI</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jul 20 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">UI-Lovelace-Minimalist is a "theme" for HomeAssistant</div>
@@ -1817,7 +1817,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2026, 02:34:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2026, 03:25:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
