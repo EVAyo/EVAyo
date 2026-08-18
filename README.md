@@ -58,9 +58,9 @@ Other      🕓 4m  █▋░░░░░░░░░░░░░░░░░░
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -101,41 +101,41 @@ Other      🕓 4m  █▋░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   40 mins             ██████████████░░░░░░░░░░░   57.01 % 
-JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+JSON                     8 mins              ███████████░░░░░░░░░░░░░░   44.98 % 
+Other                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+INI                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 编辑器: 
-Claude Code              56 mins             █████████████████████░░░░   82.23 % 
-Sublime Text             8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-XTerminal                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Sublime Text             8 mins              █████████████░░░░░░░░░░░░   52.12 % 
+XTerminal                4 mins              ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Claude Code              3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
 
 💻 操作系统: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (82.23%)
+⏱ AI Coding Time: 3 mins (21.85%)
 
-✍️ 637 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 141,386 Input Tokens, 17,820 Output Tokens
+🔤 28,231 Input Tokens, 968 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.27 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
-Deepseek                 18 lines            █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 344 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -151,7 +151,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-18 15:49:41 UTC
+ Last Updated on 2026-08-18 17:45:42 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
