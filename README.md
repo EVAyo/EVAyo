@@ -101,25 +101,24 @@ Text     🕓 0s ░░░░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JSON                     8 mins              ███████████░░░░░░░░░░░░░░   44.98 % 
-Other                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-INI                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+JSON                     8 mins              ███████████████░░░░░░░░░░   58.11 % 
+INI                      3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 编辑器: 
-Sublime Text             8 mins              █████████████░░░░░░░░░░░░   52.12 % 
-XTerminal                4 mins              ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Claude Code              3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Sublime Text             8 mins              ██████████████████░░░░░░░   70.46 % 
+Claude Code              3 mins              ███████░░░░░░░░░░░░░░░░░░   29.54 % 
 
 💻 操作系统: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (21.85%)
+⏱ AI Coding Time: 3 mins (29.54%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -151,7 +150,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-20 14:57:37 UTC
+ Last Updated on 2026-08-20 19:04:34 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
