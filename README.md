@@ -100,15 +100,14 @@ Text     🕓 0s ░░░░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JSON                     8 mins              ███████████████░░░░░░░░░░   58.11 % 
-INI                      3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     8 mins              ██████████████████░░░░░░░   70.35 % 
+INI                      3 mins              ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 编辑器: 
-Sublime Text             8 mins              ██████████████████░░░░░░░   70.46 % 
-Claude Code              3 mins              ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+Sublime Text             8 mins              ██████████████████░░░░░░░   70.35 % 
+Claude Code              3 mins              ███████░░░░░░░░░░░░░░░░░░   29.65 % 
 
 💻 操作系统: 
 Windows                  11 mins             █████████████████████████   100.00 % 
@@ -117,7 +116,7 @@ Windows                  11 mins             ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (29.54%)
+⏱ AI Coding Time: 3 mins (29.65%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -139,17 +138,17 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 **我最常使用 Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 2026-08-22 10:42:18 UTC
+ Last Updated on 2026-08-23 03:18:32 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
