@@ -99,37 +99,19 @@ Text     🕓 0s ░░░░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-INI                      3 mins              ███████████████████████░░   91.68 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-Claude Code              3 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 28,231 Input Tokens, 968 Output Tokens
-
-💵 $0.27 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Python** 
@@ -145,7 +127,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-25 15:06:31 UTC
+ Last Updated on 2026-08-25 18:59:56 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
