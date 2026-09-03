@@ -54,7 +54,7 @@ Still Gathering Statistics...
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2043%20mins-blue?style=flat)
 
@@ -73,21 +73,21 @@ Still Gathering Statistics...
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-🌆 白天                     527 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌃 傍晚                     642 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-🌙 晚上                     864 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌞 早晨                     300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+🌆 白天                     546 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+🌃 傍晚                     700 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+🌙 晚上                     907 commits         █████████░░░░░░░░░░░░░░░░   36.98 % 
 ```
 📅 **星期四 时的我最有干劲** 
 
 ```text
-星期一                      187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-星期二                      299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-星期三                      425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-星期四                      489 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-星期五                      298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-星期六                      398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-星期日                      214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+星期一                      210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+星期二                      330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+星期三                      455 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+星期四                      511 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+星期五                      309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+星期六                      406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+星期日                      232 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 
 
@@ -97,13 +97,13 @@ Still Gathering Statistics...
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+JavaScript               20 mins             █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+Sublime Text             20 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +125,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-02 14:33:41 UTC
+ Last Updated on 2026-09-03 00:15:41 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
