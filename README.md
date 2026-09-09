@@ -101,28 +101,28 @@ Svelte     🕓 1m  ▋░░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               23 mins             ████████░░░░░░░░░░░░░░░░░   32.61 % 
-JSON                     21 mins             ████████░░░░░░░░░░░░░░░░░   30.48 % 
-SiYuan                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Svelte                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON                     21 mins             ███████████░░░░░░░░░░░░░░   42.82 % 
+SiYuan                   13 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+TypeScript               11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Svelte                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 编辑器: 
-Claude Code              35 mins             ████████████░░░░░░░░░░░░░   49.17 % 
-Sublime Text             23 mins             ████████░░░░░░░░░░░░░░░░░   32.08 % 
-SiYuan                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Claude Code              35 mins             █████████████████░░░░░░░░   69.07 % 
+SiYuan                   13 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+Sublime Text             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 操作系统: 
-Windows                  58 mins             ████████████████████░░░░░   81.25 % 
-Unknown OS               13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Windows                  37 mins             ██████████████████░░░░░░░   73.66 % 
+Unknown OS               13 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (49.17%)
+⏱ AI Coding Time: 35 mins (69.07%)
 
-✍️ 197 lines written by AI, 148,013 lines written by hand (0.13% AI-written)
+✍️ 197 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 29,229 Input Tokens, 22,760 Output Tokens
 
@@ -133,10 +133,10 @@ Unknown OS               13 mins             █████░░░░░░�
 Deepseek                 197 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.13% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 40 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 99.93% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -152,7 +152,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-09 14:39:20 UTC
+ Last Updated on 2026-09-09 21:48:45 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
