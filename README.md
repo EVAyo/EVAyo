@@ -57,7 +57,7 @@ JSON with Comments 🕓 0s    ░░░░░░░░░░░░░░░░�
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2019%20mins-blue?style=flat)
 
@@ -100,19 +100,18 @@ JSON with Comments 🕓 0s    ░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-SiYuan                   1 hr 14 mins        ███████████████░░░░░░░░░░   59.75 % 
-Text                     33 mins             ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+SiYuan                   1 hr 16 mins        ████████████████░░░░░░░░░   65.70 % 
+Text                     33 mins             ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 JSON with Comments       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 编辑器: 
-SiYuan                   1 hr 14 mins        ███████████████░░░░░░░░░░   59.75 % 
-Sublime Text             50 mins             ██████████░░░░░░░░░░░░░░░   40.25 % 
+SiYuan                   1 hr 16 mins        ████████████████░░░░░░░░░   65.70 % 
+Sublime Text             40 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
 
 💻 操作系统: 
-Unknown OS               1 hr 14 mins        ███████████████░░░░░░░░░░   59.75 % 
-Windows                  50 mins             ██████████░░░░░░░░░░░░░░░   40.25 % 
+Unknown OS               1 hr 16 mins        ████████████████░░░░░░░░░   65.70 % 
+Windows                  40 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +133,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-18 05:59:10 UTC
+ Last Updated on 2026-09-19 05:55:52 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
