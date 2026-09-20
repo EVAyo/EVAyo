@@ -46,7 +46,7 @@ JSON with Comments 🕓 0s    ░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 48 hrs 39 mins
+🎮 NARAKA: BLADEPOINT                🕘 47 hrs 36 mins
 🎮 Soundpad                          🕘 22 hrs 26 mins
 ```
 <!-- steam-box end -->
