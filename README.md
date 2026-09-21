@@ -32,10 +32,8 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/59f07abc8e083bfbb0b4fcd924b27fc1" target="_blank">📊 每周工作报告</a>
 ```text
-SiYuan             🕓 1h16m █████████████▏░░░░░░ 65.7%
-Text               🕓 33m   █████▋░░░░░░░░░░░░░░ 28.6%
-JavaScript         🕓 6m    █░░░░░░░░░░░░░░░░░░░  5.6%
-JSON with Comments 🕓 0s    ░░░░░░░░░░░░░░░░░░░░  0.1%
+SiYuan     🕓 1h16m █████████████████████████▊░░ 92.1%
+JavaScript 🕓 6m    ██▏░░░░░░░░░░░░░░░░░░░░░░░░░  7.9%
 ```
 <!-- waka-box end -->
 
