@@ -98,16 +98,13 @@ JavaScript 🕓 6m    ██▏░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-SiYuan                   1 hr 16 mins        ███████████████████████░░   92.14 % 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+SiYuan                   2 mins              █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-SiYuan                   1 hr 16 mins        ███████████████████████░░   92.14 % 
-Sublime Text             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+SiYuan                   2 mins              █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Unknown OS               1 hr 16 mins        ███████████████████████░░   92.14 % 
-Windows                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Unknown OS               2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,7 +126,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-22 14:56:00 UTC
+ Last Updated on 2026-09-22 22:09:44 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
