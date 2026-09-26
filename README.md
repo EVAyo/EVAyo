@@ -98,13 +98,13 @@ SiYuan 🕓 2m █████████████████████�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-SiYuan                   2 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-SiYuan                   2 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Unknown OS               2 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,7 +126,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-25 01:32:53 UTC
+ Last Updated on 2026-09-26 01:37:17 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
