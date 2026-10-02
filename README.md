@@ -60,9 +60,9 @@ JSON   🕓 0s    ░░░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -101,19 +101,41 @@ JSON   🕓 0s    ░░░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-SiYuan                   22 mins             █████████████████████████   100.00 % 
+Other                    1 hr 28 mins        ████████████████████░░░░░   79.28 % 
+SiYuan                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 编辑器: 
-SiYuan                   22 mins             █████████████████████████   100.00 % 
+Sublime Text             1 hr 6 mins         ███████████████░░░░░░░░░░   59.36 % 
+SiYuan                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Codex Vscode             22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 
 💻 操作系统: 
-Unknown OS               22 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 29 mins        ████████████████████░░░░░   79.55 % 
+Unknown OS               22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 29 mins (79.55%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 4,024,993 Input Tokens, 399,884 Output Tokens
+
+💵 $154.32 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 36 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 11,381 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -129,7 +151,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-29 02:00:48 UTC
+ Last Updated on 2026-10-02 09:48:13 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
