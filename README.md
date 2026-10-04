@@ -45,7 +45,7 @@ JSON   🕓 0s    ░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 148 hrs 7 mins
+🎮 NARAKA: BLADEPOINT                🕘 148 hrs 37 mins
 💻 Wallpaper Engine                  🕘 0 hrs 43 mins
 🎮 Soundpad                          🕘 12 hrs 0 mins
 🎮 Salt Player for Windows           🕘 0 hrs 12 mins
