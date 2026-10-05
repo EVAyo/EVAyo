@@ -101,32 +101,32 @@ JSON   🕓 0s    ░░░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    6 hrs 52 mins       ████████████████████████░   95.68 % 
-SiYuan                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    4 hrs 45 mins       ███████████████████████░░   93.86 % 
+SiYuan                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 编辑器: 
-Sublime Text             6 hrs 9 mins        █████████████████████░░░░   85.58 % 
-Codex Vscode             43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-SiYuan                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Sublime Text             4 hrs 1 min         ████████████████████░░░░░   79.51 % 
+Codex Vscode             43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+SiYuan                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 💻 操作系统: 
-Windows                  6 hrs 53 mins       ████████████████████████░   95.75 % 
-Unknown OS               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Windows                  4 hrs 45 mins       ███████████████████████░░   93.96 % 
+Unknown OS               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 53 mins (95.75%)
+⏱ AI Coding Time: 4 hrs 45 mins (93.96%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 13,858,069 Input Tokens, 3,484,372 Output Tokens
+🔤 13,204,259 Input Tokens, 3,331,381 Output Tokens
 
-💵 $1118.53 Estimated AI Cost This Week
+💵 $1088.02 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 193 AI Prompts
+🧠 33 AI Sessions, 132 AI Prompts
 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -134,7 +134,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 14,024 characters per prompt
+📚 Verbose Prompter — average 11,496 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -152,7 +152,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-04 17:40:50 UTC
+ Last Updated on 2026-10-05 07:05:07 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
