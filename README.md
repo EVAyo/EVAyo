@@ -61,7 +61,7 @@ JSON  🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -100,40 +100,36 @@ JSON  🕓 0s    ░░░░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    4 hrs 45 mins       ███████████████████████░░   93.86 % 
-SiYuan                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    1 hr 28 mins        █████████████████████████   99.65 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 编辑器: 
-Sublime Text             4 hrs 1 min         ████████████████████░░░░░   79.51 % 
-Codex Vscode             43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-SiYuan                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Sublime Text             1 hr 6 mins         ███████████████████░░░░░░   74.61 % 
+Codex Vscode             22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
 
 💻 操作系统: 
-Windows                  4 hrs 45 mins       ███████████████████████░░   93.96 % 
-Unknown OS               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 45 mins (93.96%)
+⏱ AI Coding Time: 1 hr 29 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 13,204,259 Input Tokens, 3,331,381 Output Tokens
+🔤 4,024,993 Input Tokens, 399,884 Output Tokens
 
-💵 $1088.02 Estimated AI Cost This Week
+💵 $164.77 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 132 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 11,496 characters per prompt
+📚 Verbose Prompter — average 11,381 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -151,7 +147,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-05 07:05:07 UTC
+ Last Updated on 2026-10-06 10:18:26 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
