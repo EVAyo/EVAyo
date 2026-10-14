@@ -43,8 +43,8 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0baced9612b30907a2ba9aa9f56ecdef" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 NARAKA: BLADEPOINT                🕘 130 hrs 58 mins
-🎮 Soundpad                          🕘 11 hrs 50 mins
+🎮 NARAKA: BLADEPOINT                🕘 128 hrs 59 mins
+🎮 Soundpad                          🕘 7 hrs 40 mins
 ```
 <!-- steam-box end -->
 
