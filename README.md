@@ -56,7 +56,7 @@ JSON       🕓 0s █▌░░░░░░░░░░░░░░░░░░�
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2048%20mins-blue?style=flat)
 
@@ -99,16 +99,17 @@ JSON       🕓 0s █▌░░░░░░░░░░░░░░░░░░�
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-SiYuan                   5 mins              ███████████████████████░░   91.16 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+SiYuan                   5 mins              ██████████████████████░░░   86.58 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 编辑器: 
-SiYuan                   5 mins              ███████████████████████░░   91.16 % 
-Sublime Text             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+SiYuan                   5 mins              ██████████████████████░░░   86.58 % 
+Sublime Text             0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 
 💻 操作系统: 
-Unknown OS               5 mins              ███████████████████████░░   91.16 % 
-Windows                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Unknown OS               5 mins              ██████████████████████░░░   86.58 % 
+Windows                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +131,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-15 07:30:33 UTC
+ Last Updated on 2026-10-16 12:28:43 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
