@@ -74,21 +74,21 @@ JSON       🕓 0s  ▎░░░░░░░░░░░░░░░░░░░
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 白天                     607 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-🌃 傍晚                     779 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌙 晚上                     926 commits         █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌞 早晨                     392 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+🌆 白天                     623 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+🌃 傍晚                     788 commits         ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+🌙 晚上                     950 commits         █████████░░░░░░░░░░░░░░░░   34.51 % 
 ```
 📅 **星期四 时的我最有干劲** 
 
 ```text
-星期一                      351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-星期二                      451 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-星期三                      429 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-星期四                      503 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-星期五                      301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-星期六                      399 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-星期日                      241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+星期一                      351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+星期二                      451 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+星期三                      495 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+星期四                      515 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+星期五                      301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+星期六                      399 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+星期日                      241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
 
@@ -98,23 +98,37 @@ JSON       🕓 0s  ▎░░░░░░░░░░░░░░░░░░░
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-SiYuan                   5 mins              ██████████████████████░░░   86.58 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+JavaScript               39 mins             █████████████████████████   99.13 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 编辑器: 
-SiYuan                   5 mins              ██████████████████████░░░   86.58 % 
-Sublime Text             0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Sublime Text             39 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Unknown OS               5 mins              ██████████████████████░░░   86.58 % 
-Windows                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 39 mins (99.13%)
+
+✍️ 38 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 344,524 Input Tokens, 60,564 Output Tokens
+
+💵 $53.79 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Step                     40 lines            █████████████████████████   100.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 725 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -130,7 +144,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-20 17:03:30 UTC
+ Last Updated on 2026-10-22 04:43:00 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
