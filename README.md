@@ -62,7 +62,7 @@ Still Gathering Statistics...
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 21.2 MB GitHub 存储空间 
+> 📦  使用了 21.3 MB GitHub 存储空间 
  > 
 > 🚫 不开放招聘
  > 
@@ -73,21 +73,21 @@ Still Gathering Statistics...
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-🌆 白天                     663 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌃 傍晚                     855 commits         ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-🌙 晚上                     996 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
+🌞 早晨                     459 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+🌆 白天                     672 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+🌃 傍晚                     861 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌙 晚上                     1002 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
 ```
 📅 **星期四 时的我最有干劲** 
 
 ```text
-星期一                      374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-星期二                      482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-星期三                      525 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-星期四                      546 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-星期五                      366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-星期六                      407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-星期日                      259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+星期一                      374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+星期二                      482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+星期三                      525 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+星期四                      546 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+星期五                      368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+星期六                      440 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+星期日                      259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
@@ -97,36 +97,19 @@ Still Gathering Statistics...
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               39 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-Sublime Text             39 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (100.0%)
-
-✍️ 38 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 344,524 Input Tokens, 60,564 Output Tokens
-
-💵 $53.79 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Step                     40 lines            █████████████████████████   100.00 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 725 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Python** 
@@ -135,14 +118,14 @@ DeepSeek                 0 lines             ░░░░░░░░░░░�
 Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
 HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 2026-10-23 15:08:48 UTC
+ Last Updated on 2026-10-25 01:12:59 UTC
 <!--END_SECTION:waka-->
 
 <!--<img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vesugier&langs_count=8&layout=compact" alt="My code frequency">-->
